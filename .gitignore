@@ -1,1 +1,2 @@
-/tmp
+# ignore folder named tmp
+tmp/
